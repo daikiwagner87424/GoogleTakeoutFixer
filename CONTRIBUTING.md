@@ -12,3 +12,4 @@ Notes and usage details for GoogleTakeoutFixer.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- clarify the setup steps
