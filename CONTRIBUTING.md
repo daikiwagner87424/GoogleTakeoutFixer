@@ -17,3 +17,4 @@ Notes and usage details for GoogleTakeoutFixer.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
