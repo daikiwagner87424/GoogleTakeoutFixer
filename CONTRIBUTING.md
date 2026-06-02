@@ -22,3 +22,4 @@ Notes and usage details for GoogleTakeoutFixer.
 - add a note about the defaults
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
